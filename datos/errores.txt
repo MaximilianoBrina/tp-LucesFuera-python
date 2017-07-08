@@ -1,0 +1,190 @@
+[2017-07-02 09:59:52.986729] Iniciando registro de errores  
+[2017-07-02 10:00:00.656169] El usuario mando fruta:  ddd 
+[2017-07-02 10:00:02.785084] El usuario mando fruta:  ew 
+[2017-07-02 10:00:16.281418] Fin del registro de errores  
+[2017-07-02 10:01:59.556939] Iniciando registro de errores  
+[2017-07-02 10:02:01.717578] Fin del registro de errores  
+[2017-07-02 10:03:49.560181] Iniciando registro de errores  
+[2017-07-02 10:03:56.733149] El usuario arrugo None 
+[2017-07-02 10:03:59.745308] Fin del registro de errores  
+[2017-07-02 15:19:27.249539] Iniciando registro de errores  
+[2017-07-02 15:19:32.671808] Fin del registro de errores  
+[2017-07-02 15:25:35.151247] Iniciando registro de errores  
+[2017-07-02 15:26:37.478653] Iniciando registro de errores  
+[2017-07-02 15:28:10.477356] Iniciando registro de errores  
+[2017-07-02 15:29:31.671378] Iniciando registro de errores  
+[2017-07-02 15:30:46.140907] Iniciando registro de errores  
+[2017-07-02 15:33:23.825131] Iniciando registro de errores  
+[2017-07-02 15:33:38.450829] Iniciando registro de errores  
+[2017-07-02 15:41:39.549845] Iniciando registro de errores  
+[2017-07-02 15:42:47.443711] Iniciando registro de errores  
+[2017-07-02 15:43:33.680438] Iniciando registro de errores  
+[2017-07-02 15:49:26.905334] Iniciando registro de errores  
+[2017-07-02 15:50:06.486713] Iniciando registro de errores  
+[2017-07-02 15:54:07.845002] Iniciando registro de errores  
+[2017-07-02 16:30:43.326989] Iniciando registro de errores  
+[2017-07-02 16:30:53.229793] El usuario mando fruta:  aa 
+[2017-07-02 16:38:08.249517] Iniciando registro de errores  
+[2017-07-02 17:01:03.453855] Iniciando registro de errores  
+[2017-07-02 20:32:40.711427] Iniciando registro de errores  
+[2017-07-02 20:33:21.312806] Iniciando registro de errores  
+[2017-07-02 20:34:08.355646] Iniciando registro de errores  
+[2017-07-02 20:35:07.702103] Iniciando registro de errores  
+[2017-07-02 20:35:40.676518] Iniciando registro de errores  
+[2017-07-02 20:36:15.154854] Iniciando registro de errores  
+[2017-07-02 20:36:40.535288] Iniciando registro de errores  
+[2017-07-02 20:40:44.418130] Iniciando registro de errores  
+[2017-07-02 20:41:18.853218] Iniciando registro de errores  
+[2017-07-02 20:41:39.941722] Iniciando registro de errores  
+[2017-07-02 20:42:04.409731] Iniciando registro de errores  
+[2017-07-02 20:42:18.029070] Iniciando registro de errores  
+[2017-07-02 20:43:07.654322] Iniciando registro de errores  
+[2017-07-02 20:54:33.417948] Iniciando registro de errores  
+[2017-07-02 21:09:23.069388] Iniciando registro de errores  
+[2017-07-02 21:11:43.877963] Iniciando registro de errores  
+[2017-07-02 21:22:10.142428] Iniciando registro de errores  
+[2017-07-02 21:22:43.969285] Iniciando registro de errores  
+[2017-07-02 21:23:58.928387] Iniciando registro de errores  
+[2017-07-02 21:26:57.155761] Iniciando registro de errores  
+[2017-07-02 21:27:46.053444] Iniciando registro de errores  
+[2017-07-02 21:28:05.866981] Iniciando registro de errores  
+[2017-07-03 21:35:43.606068] Iniciando registro de errores  
+[2017-07-03 21:50:11.009349] Iniciando registro de errores  
+[2017-07-03 21:51:00.505037] Iniciando registro de errores  
+[2017-07-03 21:54:38.635961] Iniciando registro de errores  
+[2017-07-03 21:54:50.959810] Iniciando registro de errores  
+[2017-07-03 21:57:08.567111] Iniciando registro de errores  
+[2017-07-03 22:12:47.179008] Iniciando registro de errores  
+[2017-07-03 22:12:56.350294] Iniciando registro de errores  
+[2017-07-03 22:13:03.233000] Iniciando registro de errores  
+[2017-07-03 22:26:09.092517] Iniciando registro de errores  
+[2017-07-03 22:29:11.624641] Iniciando registro de errores  
+[2017-07-03 22:29:25.686903] Iniciando registro de errores  
+[2017-07-03 22:38:21.395583] Iniciando registro de errores  
+[2017-07-03 22:40:11.736225] Iniciando registro de errores  
+[2017-07-03 22:43:00.085326] Iniciando registro de errores  
+[2017-07-03 23:14:34.175477] Iniciando registro de errores  
+[2017-07-03 23:16:33.679303] Iniciando registro de errores  
+[2017-07-03 23:21:49.883447] Iniciando registro de errores  
+[2017-07-03 23:48:38.268408] Iniciando registro de errores  
+[2017-07-04 12:34:45.712336] Iniciando registro de errores  
+[2017-07-05 02:32:20.197074] Iniciando registro de errores  
+[2017-07-05 02:33:57.607224] Iniciando registro de errores  
+[2017-07-05 02:35:59.557278] Iniciando registro de errores  
+[2017-07-05 02:36:20.682154] Iniciando registro de errores  
+[2017-07-05 10:06:03.376685] Iniciando registro de errores  
+[2017-07-05 10:27:38.719445] Iniciando registro de errores  
+[2017-07-05 10:29:37.530080] Iniciando registro de errores  
+[2017-07-05 13:02:01.253862] Iniciando registro de errores  
+[2017-07-05 13:05:15.769822] Iniciando registro de errores  
+[2017-07-05 13:05:32.492888] Iniciando registro de errores  
+[2017-07-05 13:18:11.284457] Iniciando registro de errores  
+[2017-07-05 13:18:58.466038] Iniciando registro de errores  
+[2017-07-05 13:20:44.425614] Iniciando registro de errores  
+[2017-07-05 13:21:09.494723] Iniciando registro de errores  
+[2017-07-05 13:42:24.661633] Iniciando registro de errores  
+[2017-07-05 13:43:32.551387] Iniciando registro de errores  
+[2017-07-05 13:43:54.007022] Iniciando registro de errores  
+[2017-07-05 13:45:33.303452] Iniciando registro de errores  
+[2017-07-05 14:16:41.117302] Iniciando registro de errores  
+[2017-07-05 14:25:40.331359] Iniciando registro de errores  
+[2017-07-05 14:44:24.584306] Iniciando registro de errores  
+[2017-07-05 14:47:29.497780] Iniciando registro de errores  
+[2017-07-05 14:48:34.917405] Iniciando registro de errores  
+[2017-07-05 14:51:07.939624] Iniciando registro de errores  
+[2017-07-05 14:51:12.405845] El usuario mando fruta:  a0a4 
+[2017-07-05 14:51:50.695119] Iniciando registro de errores  
+[2017-07-05 14:52:12.399465] Iniciando registro de errores  
+[2017-07-05 14:53:04.031730] Iniciando registro de errores  
+[2017-07-05 14:53:46.228695] Iniciando registro de errores  
+[2017-07-05 14:54:36.775238] Iniciando registro de errores  
+[2017-07-05 14:54:49.587964] Iniciando registro de errores  
+[2017-07-05 14:55:15.537198] Iniciando registro de errores  
+[2017-07-05 15:52:44.187911] Iniciando registro de errores  
+[2017-07-05 15:53:36.988551] Iniciando registro de errores  
+[2017-07-05 15:54:26.929903] Iniciando registro de errores  
+[2017-07-06 07:15:23.005307] Iniciando registro de errores  
+[2017-07-06 07:17:05.054878] Iniciando registro de errores  
+[2017-07-06 09:25:34.373643] Iniciando registro de errores  
+[2017-07-06 09:27:43.525763] Iniciando registro de errores  
+[2017-07-06 09:40:28.328691] Iniciando registro de errores  
+[2017-07-06 09:42:13.569427] Iniciando registro de errores  
+[2017-07-06 09:45:37.040003] Iniciando registro de errores  
+[2017-07-06 13:27:08.873795] Iniciando registro de errores  
+[2017-07-06 13:34:16.793531] Iniciando registro de errores  
+[2017-07-06 13:41:17.516981] Iniciando registro de errores  
+[2017-07-06 13:45:26.142089] Iniciando registro de errores  
+[2017-07-06 13:48:44.814434] Iniciando registro de errores  
+[2017-07-06 13:48:59.689481] Iniciando registro de errores  
+[2017-07-06 13:49:14.244834] Iniciando registro de errores  
+[2017-07-06 14:03:23.255053] Iniciando registro de errores  
+[2017-07-06 14:04:19.121842] Iniciando registro de errores  
+[2017-07-06 14:04:59.832889] Iniciando registro de errores  
+[2017-07-06 14:05:43.067123] Iniciando registro de errores  
+[2017-07-06 14:07:05.769608] Iniciando registro de errores  
+[2017-07-06 14:09:01.119167] Iniciando registro de errores  
+[2017-07-06 14:10:08.322043] Iniciando registro de errores  
+[2017-07-06 14:10:20.305547] Iniciando registro de errores  
+[2017-07-06 14:36:32.617886] Iniciando registro de errores  
+[2017-07-06 14:36:46.351696] El usuario mando fruta:  a7 
+[2017-07-06 14:36:58.275259] El usuario arrugo  
+[2017-07-06 14:37:27.482212] El usuario arrugo  
+[2017-07-06 14:37:42.425806] El usuario arrugo  
+[2017-07-06 15:27:26.550930] Iniciando registro de errores  
+[2017-07-06 15:27:40.567215] El usuario arrugo  
+[2017-07-06 15:27:53.380326] El usuario arrugo  
+[2017-07-06 15:33:05.640792] Iniciando registro de errores  
+[2017-07-06 15:33:18.860300] El usuario arrugo  
+[2017-07-06 15:33:33.704719] El usuario arrugo  
+[2017-07-06 18:57:54.340066] Iniciando registro de errores  
+[2017-07-06 18:58:31.077568] Iniciando registro de errores  
+[2017-07-06 19:07:35.725187] Iniciando registro de errores  
+[2017-07-06 19:08:57.620988] Iniciando registro de errores  
+[2017-07-06 20:27:20.111572] Iniciando registro de errores  
+[2017-07-06 20:27:42.129868] Iniciando registro de errores  
+[2017-07-06 20:29:39.750065] Iniciando registro de errores  
+[2017-07-06 20:31:42.762862] Iniciando registro de errores  
+[2017-07-06 20:32:09.200311] El usuario mando fruta:  a5 
+[2017-07-06 20:32:28.333583] El usuario mando fruta:  b5 
+[2017-07-06 20:32:30.510801] El usuario mando fruta:   
+[2017-07-06 20:32:39.218692] El usuario mando fruta:  c5 
+[2017-07-06 20:33:00.213566] El usuario mando fruta:  d5 
+[2017-07-06 20:33:02.669846] El usuario mando fruta:  4 
+[2017-07-06 20:33:27.186579] El usuario mando fruta:  e5 
+[2017-07-06 20:33:30.225884] El usuario arrugo  
+[2017-07-06 20:33:47.680817] Iniciando registro de errores  
+[2017-07-06 20:49:47.916601] Iniciando registro de errores  
+[2017-07-06 20:50:01.220251] Iniciando registro de errores  
+[2017-07-06 20:50:13.426381] Iniciando registro de errores  
+[2017-07-06 20:50:24.115725] Iniciando registro de errores  
+[2017-07-06 20:50:58.608061] Iniciando registro de errores  
+[2017-07-06 21:24:00.901195] Iniciando registro de errores  
+[2017-07-06 21:30:06.513943] Iniciando registro de errores  
+[2017-07-07 07:40:14.786089] Iniciando registro de errores  
+[2017-07-07 07:40:22.099283] El usuario mando fruta:  a9 
+[2017-07-07 07:40:47.772392] El usuario arrugo  
+[2017-07-07 07:50:36.385296] Iniciando registro de errores  
+[2017-07-07 07:51:20.870926] Iniciando registro de errores  
+[2017-07-07 07:52:25.347588] Iniciando registro de errores  
+[2017-07-07 07:54:34.802003] Iniciando registro de errores  
+[2017-07-07 07:55:59.028022] Iniciando registro de errores  
+[2017-07-07 07:56:21.673059] Iniciando registro de errores  
+[2017-07-07 07:57:04.317165] Iniciando registro de errores  
+[2017-07-07 07:57:50.201459] Iniciando registro de errores  
+[2017-07-07 09:19:11.546485] Iniciando registro de errores  
+[2017-07-07 09:20:11.679139] El usuario arrugo  
+[2017-07-07 09:32:24.615312] Iniciando registro de errores  
+[2017-07-07 09:33:49.209088] Iniciando registro de errores  
+[2017-07-08 08:42:09.553568] Iniciando registro de errores  
+[2017-07-08 08:43:24.697816] El usuario arrugo  
+[2017-07-08 08:43:55.749022] Iniciando registro de errores  
+[2017-07-08 08:44:03.124364] El usuario arrugo  
+[2017-07-08 08:44:22.344072] El usuario arrugo  
+[2017-07-08 08:45:27.582849] Iniciando registro de errores  
+[2017-07-08 08:46:56.373567] Iniciando registro de errores  
+[2017-07-08 08:47:02.874180] El usuario mando fruta:  s0 
+[2017-07-08 08:47:36.688011] Iniciando registro de errores  
+[2017-07-08 08:49:25.740141] Iniciando registro de errores  
+[2017-07-08 09:14:22.222666] Iniciando registro de errores  
+[2017-07-08 09:14:27.504041] El usuario mando fruta:  aa 
+[2017-07-08 09:14:31.457500] El usuario arrugo  

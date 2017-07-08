@@ -1,0 +1,35 @@
+1-wrapper ini? wrapperReadINI
+
+2-dividir dinamicaDelJuego?
+
+3-exportar variable? dinamicaDelJuego 100
+def generacionDeTableros.dimensionFilaDeTablero():
+    #la funcion calcula la dimension de tablero a partir de la raiz cuadrada del total de sus elementos
+    #global dimensionFilaDeTablero
+    dimensionFilaDeTablero = int(len(tableros[0]) ** 0.5)
+    return dimensionFilaDeTablero"""
+
+
+4-reset
+
+
+
+FALTA:
+tests
+menues en INI (opcion de idiomas)
+AI para aleatorio
+
+
+
+preguntas:
+-raiz cuadrada con math.sqrt o ** 0.5?
+-for in range etc en una linea o desplegado?
+
+
+
+"""
+'constant' del modulo 'string'
+ascii_lowercase , ascii_uppercase?
+pp 224
+como se usa?
+"""
