@@ -1,4 +1,4 @@
-from tableros import *
+from modulosOperativos.tableros import *
 
 nivel = 0
 nivelEnJuego = 0

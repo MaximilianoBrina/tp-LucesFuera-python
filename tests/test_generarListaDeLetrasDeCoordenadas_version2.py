@@ -1,5 +1,6 @@
-from tableros import *
 import unittest
+
+from modulosOperativos.tableros import *
 
 tamanoDeTablero = 8
 

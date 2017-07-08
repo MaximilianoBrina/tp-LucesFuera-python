@@ -3,8 +3,8 @@ import os
 from datos import logger, leerDAT
 from modulosOperativos import estructuraDelJuego
 from modulosOperativos.dinamicaDelJuego import *
+from modulosOperativos.tableros import *
 from multimedia import *
-from tableros import *
 
 
 def opcionDelUsuarioMenuInicial():

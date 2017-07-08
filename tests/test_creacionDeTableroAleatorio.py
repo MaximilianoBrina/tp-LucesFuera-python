@@ -1,5 +1,6 @@
-from tableros import *
 import unittest
+
+from modulosOperativos.tableros import *
 
 extensionDeTablero = 3
 tableroConLuces = {'a0': '0', 'a1': '.', 'a2': '.', 'b0': '0', 'b1': '0', 'b2': '.', 'c0': '.', 'c1': '0', 'c2': '0'}

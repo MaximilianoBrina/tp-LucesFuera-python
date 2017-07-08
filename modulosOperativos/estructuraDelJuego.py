@@ -3,7 +3,7 @@ import os
 from datos import leerDAT
 from modulosOperativos import dinamicaDelJuego
 from modulosOperativos import opcionesDelUsuario
-from tableros import *
+from modulosOperativos.tableros import *
 
 valorDelamparaEncendida = int(leerDAT.leerDAT("puntaje", "lamparaEncendida")) #int(linecache.getline("configuracion.dat", 17)[0:3])
 tableros = []

@@ -1,6 +1,6 @@
 from datos import logDeErrores
 
-nombre_archivo_log = "errores.txt"
+nombre_archivo_log = "datos/errores.txt"
 archivo_log = None
 
 def abrir():
