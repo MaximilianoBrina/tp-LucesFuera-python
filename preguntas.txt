@@ -1,18 +1,6 @@
 1-wrapper ini? wrapperReadINI
 
-2-dividir dinamicaDelJuego?
-
-3-exportar variable? dinamicaDelJuego 100
-def generacionDeTableros.dimensionFilaDeTablero():
-    #la funcion calcula la dimension de tablero a partir de la raiz cuadrada del total de sus elementos
-    #global dimensionFilaDeTablero
-    dimensionFilaDeTablero = int(len(tableros[0]) ** 0.5)
-    return dimensionFilaDeTablero"""
-
-
-4-reset
-
-
+2-reset
 
 FALTA:
 tests
