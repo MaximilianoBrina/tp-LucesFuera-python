@@ -1,6 +1,6 @@
 import unittest
-
 from modulosOperativos.tableros import *
+from datos import *
 
 coordenadasDeTableroAleatorio=[('a', 0), ('a', 1), ('a', 2), ('a', 3), ('a', 4), ('a', 5), ('b', 0), ('b', 1), ('b', 2), ('b', 3), ('b', 4), ('b', 5), ('c', 0), ('c', 1), ('c', 2), ('c', 3), ('c', 4), ('c', 5), ('d', 0), ('d', 1), ('d', 2), ('d', 3), ('d', 4), ('d', 5), ('e', 0), ('e', 1), ('e', 2), ('e', 3), ('e', 4), ('e', 5), ('f', 0), ('f', 1), ('f', 2), ('f', 3), ('f', 4), ('f', 5)]
 

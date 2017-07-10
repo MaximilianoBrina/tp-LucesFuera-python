@@ -2,3 +2,10 @@
 [2017-07-08 18:27:21.661008] Iniciando registro de errores  
 [2017-07-08 18:27:34.522628] El usuario arrugo  
 [2017-07-08 18:28:01.262809] El usuario arrugo  
+[2017-07-10 15:05:48.391910] Iniciando registro de errores  
+[2017-07-10 15:06:27.300218] El usuario arrugo  
+[2017-07-10 15:08:12.184171] Iniciando registro de errores  
+[2017-07-10 15:08:22.669337] El usuario arrugo  
+[2017-07-10 15:09:50.847344] Iniciando registro de errores  
+[2017-07-10 15:10:12.048419] El usuario mando fruta:  q0 
+[2017-07-10 15:10:35.393452] El usuario arrugo  
