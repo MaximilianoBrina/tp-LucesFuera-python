@@ -83,16 +83,3 @@ def coordenadasAleatoriasValidas():
     for i in range(0, len(listaDeCoordenadas)):
         coordenadasAleatorias.append((listaDeCoordenadas[i][0]) + str(listaDeCoordenadas[i][1]))
     return coordenadasAleatorias
-
-"""
-############Version posta###########################
-def coordenadasDeValidacion(dimensionFilaDeTablero):
-    '''la funcion genera a partir de la dimension del tablero una lista de coordenadas para validad el input del usuario'''
-    letras=([letra[0] for letra in (tableros.generacionDeTableros.generarListaDeCoordenadas(dimensionFilaDeTablero))])
-    numeros=([numero[1] for numero in (tableros.generacionDeTableros.generarListaDeCoordenadas(dimensionFilaDeTablero))])
-    coordenadasValidas=["RE","SA"]
-    for i in range(0,dimensionFilaDeTablero):
-        coordenadasValidas.append(letras[i] + str(numeros[i]))
-    #print(coordenadasValidas)
-    return coordenadasValidas
-"""
